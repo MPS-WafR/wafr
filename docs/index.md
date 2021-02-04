@@ -1,8 +1,8 @@
-_ **Conditions générales d&#39;utilisation du m-wallet WafR** _
+**Conditions générales d&#39;utilisation de WafR**
 
 Les présentes Conditions Générales d&#39;Utilisation (ci-après dénommés « CGU ») ont pour objet de déterminer les règles d&#39;utilisation de l&#39;application mobile m-wallet WafR (ci-après WafR) de la société Mobile Payment System.
 
-Mobile Payment System est une société à responsabilité limitée (S.A.R.L) dont le capital social est de dix mille (10 000) dirhams, immatriculée au registre du commerce de Casablanca sous le numéro xxxxxxxxxxxx. Son siège est situé au xxxxxxxxxxxxxx.
+Mobile Payment System est une société à responsabilité limitée (S.A.R.L) dont le capital social est de dix mille (10 000) dirhams, immatriculée au registre du commerce de Casablanca sous le numéro 424091. Son siège est situé au 56, Bd Moulay Youssef, apt 14 Casablanca Maroc.
 
 Mobile Payment System a pour principale activité l&#39;édition et l&#39;exploitation de l&#39;application mobile dénommée : WafR.
 
@@ -28,17 +28,17 @@ _ **Article 1. Définitions** _
 
 « Epicier » : Personne physique ou morale qui exerce habituellement des actes de commerce ou de services ou une profession libérale
 
-« Opérations » : désigne les différentes transactions ainsi que les différents services proposés par l&#39;application WAfR.
+« Opérations » : désigne les différentes transactions ainsi que les différents services proposés par l&#39;application WafR.
 
 « SMS de vérification » : Le code de vérification permet à Mobile Payment System ou à Cash plus de vérifier le numéro de téléphone mobile du client.
 
-« Code d&#39;accès » ou « Mot de passe » : Le code d&#39;accès permet au client d&#39;accéder à son « Compte WafR » via l&#39;application mobile WafR, qui lui sera demandé à chaque fois qu&#39;il souhaite accéder à l&#39;application ou effectuer des transactions.
+« Code d&#39;accès » ou « Mot de passe » : Le code d&#39;accès permet au client d&#39;accéder à son « Compte WafR » via l&#39;application mobile WafR, qui pourra lui être demandé lors de son accès à l&#39;application pour effectuer des transactions.
 
 _ **Article 2. Propriété intellectuelle de WafR** _
 
 Mobile Payment System est propriétaire exclusif de tous les droits de propriété intellectuelle afférents à WafR et son Contenu.
 
-Sans préjudice des dispositions de l&#39;article 2, aucune des stipulations des CGU ne peut être interprétée comme une cession, un transfert, uxne vente, une concession, une licence, un prêt, une location, une autorisation d&#39;exploitation consentie directement ou indirectement par Mobile Payment System au profit du Porteur sur WafR, son Contenu et/ou les Opérations.
+Sans préjudice des dispositions de l&#39;article 2, aucune des stipulations des CGU ne peut être interprétée comme une cession, un transfert, une vente, une concession, une licence, un prêt, une location, une autorisation d&#39;exploitation consentie directement ou indirectement par Mobile Payment System au profit du Porteur sur WafR, son Contenu et/ou les Opérations.
 
 _ **Article 3. Licence d&#39;utilisation** _
 
@@ -68,6 +68,7 @@ Les Opérations disponibles, sont les suivantes :
 - Assistance et réclamations ;
 - Flash du code barre d&#39;un produit
 - Transfert
+- Paiement
 
 Cette liste peut être modifiée à tout moment par Mobile Payment System sans que sa responsabilité ne puisse engagée à ce titre par qui que ce soit. Toutefois Mobile Payment System s&#39;engage à informer les Porteurs de tout changement des opérations citées au présent article avant sa mise en vigueur.
 
@@ -78,17 +79,17 @@ Pour souscrire à WafR, le Porteur doit au préalable disposer d&#39;un téléph
 Pour l&#39;ouverture d&#39;un Compte WafR :
 
 - Le Porteur doit renseigner son numéro de téléphone ;
-- Installer l&#39;applicatin mobile SmartFlouss de Cash plus et suivre son processus d&#39;inscription ;
-- Le Porteur doit choisir un « Code d&#39;accès » ou « Mot de passe » ;
+- Installer l&#39;application mobile Cash plus mobile de Cash plus et suivre son processus d&#39;inscription ;
+- Le Porteur pourra être amené à choisir un « Code d&#39;accès » ou « Mot de passe » ;
 - Le Porteur doit accepter les CGU.
 
-Une fois le « Compte WafR » activé, le client pourra effectuer des transactions en ligne. Il devra pour ce faire s&#39;authentifier via son code pin SmarFlouss avant d&#39;effectuer une transaction
+Une fois le « Compte WafR » activé, le client pourra effectuer des transactions en ligne.
 
-L&#39;application WafR ne peut fonctionner que successivement à l&#39;ouverture d&#39;un compte SmartFlouss
+L&#39;application WafR ne peut fonctionner que successivement à l&#39;ouverture d&#39;un compte Cash plus mobile
 
 Le solde du « Compte WafR » est cantonné sur le compte du porteur auprès de Cash plus et est utilisable par le biais de l&#39;application WafR dans les conditions prévues à cet effet par l&#39;API de Cash plus.
 
-Les Porteurs détenteurs d&#39;un compte Cash plus, souhaitant ouvrir un compte WafR n&#39;aurons pas besoin de créer un nouveau compte « Cash plus », les deux comptes seront automatiquement reliés.
+Les Porteurs détenteurs d&#39;un compte Cash plus mobile, souhaitant ouvrir un compte WafR n&#39;aurons pas besoin de créer un nouveau compte « Cash plus », les deux comptes seront automatiquement reliés.
 
 Suite à la finalisation de l&#39;inscription, le montant qui apparaitra dans l&#39;application mobile WafR sera identique à celui existant sur l&#39;application Cash plus.
 
@@ -100,15 +101,15 @@ Grâce à l&#39;acceptation de la fonction de géolocalisation par GPS du télé
 
 _ **Article 7. Conditions financières** _
 
-L&#39;application mobile WafR est proposée gratuitement aux utilisateurs. Les utilisateurs peuvent recevoir des cashsbacks lors de l&#39;utilisation de cette application. Les conditions d&#39;octroie de ces cashbacks peuvent différer selon le niveau d&#39;accès de l&#39;utilisateur.
+L&#39;application mobile WafR est proposée gratuitement aux utilisateurs. Les utilisateurs peuvent recevoir des cashsbacks lors de l&#39;utilisation de cette application. Les conditions d&#39;octroie de ces cashbacks peuvent différer selon le niveau d&#39;accès de l&#39;utilisateur. La nature de ces cashbacks peut, également, différer en fonction du niveau d&#39;accès de l&#39;utilisateur et des choix de Mobile Payment System.
 
 Pour un utilisateur lambda, les cashbacks sont réceptionnés suite à l&#39;achat d&#39;un ou plusieurs produits chez un épicier qui dispose de l&#39;application WafR
 
 Pour un épicier les cashsbacks sont envoyés suite à la vente de plusieurs produits faisant partie du programme de fidélité à plusieurs clients différents
 
-Pour les commerciaux des partenaires de la grande distribution, le cashsbacks sont envoyés suite à la vente par l&#39;épicier des produits vendus à cet épicier par un commercial
+Pour les commerciaux des partenaires de la grande distribution, le cashsbacks sont envoyés suite à la vente par l&#39;épicier aux consommateurs finaux des produits vendus à cet épicier par un commercial
 
-Ces conditions et les montants des cahshbacks sont à la discrétion de Mobile Payment System et peuvent évoluer dans le temps.
+Ces conditions et les montants et la nature des cahshbacks sont à la discrétion de Mobile Payment System et peuvent évoluer dans le temps.
 
 _ **Article 8. Obligation de Mobile Payment System** _
 
@@ -147,21 +148,16 @@ La responsabilité de Mobile Payement System ne saurait être recherchée en cas
 
 Le Porteur est responsable des dommages et des coûts résultant de son utilisation de l&#39;application, en cas d&#39;informations erronées fournies par ses soins ou du non-respect des présentes dispositions, ainsi que de toute atteinte au droit de propriété intellectuelle, et plus généralement, au droit des tiers.
 
-Le Porteur doit assurer la garde, la conservation et la confidentialité du mot de passe. Il en a la responsabilité exclusive et il s&#39;engage à ne pas le divulguer. Il doit prendre aussi toutes les précautions utiles pour préserver la confidentialité de l&#39;accès à son téléphone mobile.
+Il doit prendre aussi toutes les précautions utiles pour préserver la confidentialité de l&#39;accès à son téléphone mobile.
 
-L&#39;utilisation conjointe de l&#39;identifiant (numéro de téléphone) et du mot de passe constitue la preuve de l&#39;identité du client. Dès qu&#39;il constate la perte ou le vol de son mot de passe, ou bien soupçonne une utilisation frauduleuse de son Compte WafR, le Porteur doit immédiatement le signaler à Mobile Payment System.
+L&#39;utilisation conjointe de l&#39;identifiant (numéro de téléphone) et du SMS contenant un code à utilisation unique fait preuve de l&#39;identité du client. Dès qu&#39;il constate la perte ou le vol de son téléphone, ou bien soupçonne une utilisation frauduleuse de son Compte WafR, le Porteur doit immédiatement le signaler à Mobile Payment System.
 
 _ **Article 11. Clôture de compte** _
 
 La convention de compte cessera :
 
-- Par la volonté du Porteur, qui devra prendre contact avec Cash plus
-
-Au cas où le solde disponible du Compte WafR est insuffisant pour couvrir les frais d&#39;opérations en cours, le Porteur s&#39;engage à verser, avant toute clôture, le montant du reliquat des frais susvisés restant à sa charge.
-
-- Celle-ci pourra, néanmoins, procéder à la clôture du Compte sans préavis et sans mise en demeure préalable dans tous les cas où elle en est dispensée par la Loi et la réglementation en vigueur, notamment au cas où le Porteur manquerait à l&#39;une de ses obligations ou au cas où il aurait fait des déclarations ou donné des informations qui s&#39;avéreraient fausses ou inexactes,
-
-La fermeture du compte WafR, auprès de Mobile Payement System est totalement gratuite
+- La fermeture du compte Cash plus ne peut être effectuée par Mobile Payment system
+- La fermeture du compte WafR, auprès de Mobile Payement System est totalement gratuite
 
 _ **Article 12. Protection des données personnelles** _
 
@@ -208,5 +204,3 @@ Les présentes conditions générales d&#39;utilisation sont soumises pour leur 
 Dans le cas où un litige surviendrait entre Mobile Payment System et un utilisateur de l&#39;application WafR, ce dernier s&#39;engage à s&#39;adresser à Mobile Payment System pour rechercher une solution amiable.
 
 Tout litige ou contestation relatif à l&#39;exécution ou à l&#39;interprétation du présent règlement qui n&#39;aura pût être réglé à l&#39;amiable entre les parties dans un délais (30) jours à compter de sa survenance, sera soumis aux tribunaux compétents.
-
-- Le Porteur accepte les présentes conditions générales d&#39;utilisation, en cochant la case succédée de la mention : j&#39;accepte les conditions générales d&#39;utilisation.
